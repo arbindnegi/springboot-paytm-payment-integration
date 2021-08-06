@@ -9,7 +9,7 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>com.demo</groupId>
 	<artifactId>spring-payment-paytm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-payment-paytm</name>
